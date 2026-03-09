@@ -4,14 +4,6 @@ A curated collection of my projects.
 
 ## Projects
 
-### simp-prf
-
-_No description._
-
-🔗 [View on GitHub](https://github.com/MoradaNobre/simp-prf)
-
----
-
 ### gh-portfolioia
 
 _No description._
@@ -68,11 +60,27 @@ _No description._
 
 ---
 
-### condominio
+### solardash
+
+<p align="center">
+  <img src="https://byqzqtvcugznxefvbipq.supabase.co/storage/v1/object/public/screenshots/5f1f1003-eb76-4de9-8f36-b9723e74ba77/2a9323b0-0c96-497a-89e6-453b759a1613.png" alt="solardash screenshot" width="600" />
+</p>
 
 _No description._
 
-🔗 [View on GitHub](https://github.com/MoradaNobre/condominio)
+🔗 [View on GitHub](https://github.com/dna1973/solardash)
+
+---
+
+### acessi-guide-pro
+
+<p align="center">
+  <img src="https://byqzqtvcugznxefvbipq.supabase.co/storage/v1/object/public/screenshots/fb48c3de-b63f-40b8-b357-e3d3c6441b62/4c812183-7ef9-440d-bfcf-d90a9ebaae78.png" alt="acessi-guide-pro screenshot" width="600" />
+</p>
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/acessi-guide-pro)
 
 ---
 
@@ -80,7 +88,123 @@ _No description._
 
 _No description._
 
-🔗 [View on GitHub](https://github.com/MoradaNobre/portfolio)
+🔗 [View on GitHub](https://github.com/dna1973/portfolio)
+
+---
+
+### condominio
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/condominio)
+
+---
+
+### portfolio
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/portfolio)
+
+---
+
+### analise-de-propostas
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/analise-de-propostas)
+
+---
+
+### AuditFlowAI
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/AuditFlowAI)
+
+---
+
+### palpita-agora
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/palpita-agora)
+
+---
+
+### PRF-Property-Maintenance-System-3283
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/PRF-Property-Maintenance-System-3283)
+
+---
+
+### domain-mail-center
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/domain-mail-center)
+
+---
+
+### ResponsiveLandingPage
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/ResponsiveLandingPage)
+
+---
+
+### vpsapporion
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/vpsapporion)
+
+---
+
+### vpshostapps
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/vpshostapps)
+
+---
+
+### pageappvps
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/pageappvps)
+
+---
+
+### app-card-vista-hub
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/app-card-vista-hub)
+
+---
+
+### ePeritos
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/dna1973/ePeritos)
+
+---
+
+### simp-prf
+
+<p align="center">
+  <img src="https://byqzqtvcugznxefvbipq.supabase.co/storage/v1/object/public/screenshots/c4a9f9d1-8273-43da-8c4b-8ad984f87336/12a7f5c2-11d6-4e1f-ae5e-8f197f90f5a1.png" alt="simp-prf screenshot" width="600" />
+</p>
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/simp-prf)
 
 ---
 
