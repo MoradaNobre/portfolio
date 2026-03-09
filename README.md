@@ -1,19 +1,87 @@
-# portfolio
+# Developer Portfolio
 
-Um repositório centralizado que serve como portfólio para exibir diversos projetos desenvolvidos pelo autor.
+A curated collection of my projects.
 
-## 🚀 Demo
+## Projects
 
-_Link não disponível._
+### simp-prf
 
-## 🛠 Tecnologias
+_No description._
 
-`Markdown` · `GitHub Actions/Automation`
-
-## 📸 Screenshots
-
-_No screenshots yet._
+🔗 [View on GitHub](https://github.com/MoradaNobre/simp-prf)
 
 ---
 
-> Gerado automaticamente com [GitHub Portfolio IA](https://github.com)
+### gh-portfolioia
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/gh-portfolioia)
+
+---
+
+### tco-genius-bot
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/tco-genius-bot)
+
+---
+
+### gcondo
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/gcondo)
+
+---
+
+### guia-interativo-licita
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/guia-interativo-licita)
+
+---
+
+### dados-transforma-futuro
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/dados-transforma-futuro)
+
+---
+
+### prf-property-care
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/prf-property-care)
+
+---
+
+### audit-flow-br
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/audit-flow-br)
+
+---
+
+### condominio
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/condominio)
+
+---
+
+### portfolio
+
+_No description._
+
+🔗 [View on GitHub](https://github.com/MoradaNobre/portfolio)
+
+---
+
+> Generated automatically with [GitHub Portfolio IA](https://github.com)
